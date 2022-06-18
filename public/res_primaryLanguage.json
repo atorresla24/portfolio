@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Currently going through Code Fellows software development program. Great at working with a team and not afraid to bring ideas to the table and pointing out possible corrections to increase team efficiency.",
+      "description": "Before I decided to change careers I was a sophomore student attending Stony Brook University in New York majoring in astrophysics. I also worked part-time at a Lowes. I decided to learn software development because coding has always been something that has piqued my interest but I have been and still am fascinated with the science of the universe. I chose this specific skill because my aunt is a back end coder and I have always preferred working with a team out of reach of public interaction so I decided that learning coding and becoming a back end software developer wouldn't be such a bad career. I would prefer to be a back end coder simply because it interests me and also because I would like to strive for a position that works more with behind-the-scenes work. My prior experience at Code Fellows makes me feel more than confident in my new career in tech and I am more than proud in my capabilities. Even so, I will still continue to improve in anyway I can and am open to any suggestions or opinions. I am not fond of limiting myself by feeling I have reached a level of comfortability. To improve every day and be better than I was the day prior is the goal. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,13 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Flash-Flip",
+        "startDate": "2022",
+        "description": "The first project I worked on with a team and it allows a user to create custom decks of flashcards and use them to study",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/home-logo.png"
         ],
-        "url": "",
+        "url": "https://flash-flip.github.io/flash-flip/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -82,36 +81,16 @@
     "experience": [
       {
         "company": "DefOpenSource",
-        "title": "Front-End Developer",
+        "title": "Back-End Developer",
         "years": "10.2019 - present",
         "mainTech": [
           "Angular 8/9/10"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MDBootstrap"
         ]
       }
     ]
